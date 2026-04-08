@@ -46,7 +46,7 @@ Before touching **any** line of code, the agent checks:
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/devdebt-agent
+git clone https://github.com/vvce25cse0423-lgtm/devdebt-agent
 cd devdebt-agent
 ```
 
